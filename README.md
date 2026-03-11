@@ -47,11 +47,20 @@ Steps involved:
 To visualize clusters we used:
 
 - PCA (Principal Component Analysis)
+
 - t-SNE (t-Distributed Stochastic Neighbor Embedding)
 
 These techniques reduce high dimensional data into **2D visualization**.
 
 ---
+## Cluster Visualization
+
+### PCA Visualization
+![PCA Clusters](pca_clusters.png)
+
+### t-SNE Visualization
+![t-SNE Clusters](tsne_clusters.png)
+
 
 ## ⚙️ Tools & Technologies
 
